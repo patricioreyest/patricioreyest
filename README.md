@@ -5,10 +5,10 @@
 <br><br>
 
 ## 😊 Acerca de mí  
-- Actualmente me encuentro cursando el Bootcamp de Desarrollo Front-End con VueJS
-- En paralelo estoy aprendiendo Desarrollo Backend con PHP y Laravel de forma autodidacta
-- Estoy haciendo unos pequeños proyectos web
-- Y me encuentro certificado como Data Analyst en Python
+- Actualmente me encuentro cursando el Bootcamp de Desarrollo Front-End con VueJS 🎓
+- En paralelo estoy aprendiendo Desarrollo Backend con PHP🐘 y Laravel de forma autodidacta 🎓
+- Estoy haciendo unos pequeños proyectos web 💻
+- En 2025 me certifique como Data Analyst con Python🐍📊📈 
 
 <br><br>
 

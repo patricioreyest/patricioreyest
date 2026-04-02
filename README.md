@@ -7,7 +7,7 @@
 ## 😊 Acerca de mí  
 - Actualmente me encuentro cursando el Bootcamp de Desarrollo Front-End con VueJS 🎓
 - En paralelo estoy aprendiendo Desarrollo Backend con PHP 🐘 y Laravel de forma autodidacta 🎓
-- En 2025 me certifique como Data Analyst con Python 🐍
+- Mi Misión es llegar a ser un Desarrollador Web Fullstack
 <br><br>
 
 ## 💻 Stack Tecnológico (en proceso de dominar el universo dev 🌎)
@@ -24,11 +24,11 @@
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="30">](https://code.visualstudio.com/)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="30">](https://github.com/)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="30">](https://www.python.org/)
-<!-- [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="30">](https://pandas.pydata.org/)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="30">](https://numpy.org/)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="30">](https://matplotlib.org/)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="30">](https://scikit-learn.org/)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="jupyter" width="30">](https://jupyter.org/)-->
+<!-- [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="30">](https://pandas.pydata.org/) -->
+<!-- [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="30">](https://numpy.org/) -->
+<!-- [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="30">](https://matplotlib.org/) -->
+<!-- [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="30">](https://scikit-learn.org/) -->
+<!-- [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="jupyter" width="30">](https://jupyter.org/)-->
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="30">](https://www.linux.org/)
 <br><br>
 

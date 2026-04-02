@@ -18,7 +18,7 @@
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40">](https://www.postgresql.org/)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40">](https://code.visualstudio.com/)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40">](https://github.com/)
-
+<br><br>
 ## 📫 Contacto
 
 <!-- [<img src="https://cdn.iconscout.com/icon/free/png-256/gmail-2038873-1720091.png" alt="Gmail" width="40">](mailto:tucorreo@tu-dominio.com) -->

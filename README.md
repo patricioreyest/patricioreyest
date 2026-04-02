@@ -25,20 +25,8 @@
 [<img src="https://cdn.iconscout.com/icon/free/png-256/telegram-3-226554.png" alt="telegram" width="50">](https://t.me/analistadev)
 [<img src="https://cdn.iconscout.com/icon/free/png-256/github-153-675523.png" alt="github" width="50">](https://github.com/patricioreyest)
 
-## 📊 Estadísticas de GitHub
+<br>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=tuusuario&theme=gotham&show_icons=true&count_private=true&hide_title=true&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&layout=default&theme=gotham&hide=html&hide_border=true&card_width=330)
-
-![trophy](https://github-profile-trophy.vercel.app/?username=tuusuario&theme=onestar&no-frame=true&column=3&row=2)
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tuusuario&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
-
-## 🏆 Badges
-
-[![wakatime](https://wakatime.com/badge/user/tu-usuario-id.svg?style=social)](https://wakatime.com/@tu-usuario-id)
-[<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/tuusuario?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&label=Total%20user%20stars&logoColor=red&style=social">](https://github.com/tuusuario?tab=repositories)
-[<img alt="GitHub followers" src="https://img.shields.io/github/followers/tuusuario?&logoColor=red&style=social">](https://github.com/tuusuario?tab=followers)
-
-**✨ Hecho con ❤️ y mucho código ✨**
+**✨ Hecho con ❤️ y muchoooooo0 código ✨**
 
 *Última actualización: Abril 2026*

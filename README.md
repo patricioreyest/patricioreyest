@@ -2,7 +2,7 @@
 [<img align='right' src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="developer gif">](https://github.com/tuusuario)
 
 <!-- # ✨ Hey! Nice to see you. ✨ -->
-<br><br>
+<br><br><br>
 ## 💻 Mi Stack Tecnológico
 
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="80">](https://developer.mozilla.org/es/docs/Web/JavaScript)
@@ -20,9 +20,9 @@
 
 ## 📫 Contacto
 
-[<img src="https://cdn.iconscout.com/icon/free/png-256/gmail-2038873-1720091.png" alt="Gmail" width="60">](mailto:tucorreo@gmail.com)
-[<img src="https://cdn.iconscout.com/icon/free/png-256/telegram-3-226554.png" alt="telegram" width="50">](https://t.me/tuusuario)
-[<img src="https://cdn.iconscout.com/icon/free/png-256/github-153-675523.png" alt="github" width="50">](https://github.com/tuusuario)
+<!-- [<img src="https://cdn.iconscout.com/icon/free/png-256/gmail-2038873-1720091.png" alt="Gmail" width="60">](mailto:tucorreo@tu-dominio.com) -->
+[<img src="https://cdn.iconscout.com/icon/free/png-256/telegram-3-226554.png" alt="telegram" width="50">](https://t.me/analistadev)
+[<img src="https://cdn.iconscout.com/icon/free/png-256/github-153-675523.png" alt="github" width="50">](https://github.com/patricioreyest)
 
 ## 📊 Estadísticas de GitHub
 

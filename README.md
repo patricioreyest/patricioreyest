@@ -1,12 +1,12 @@
 <!--suppress HtmlDeprecatedAttribute -->
-[<img align='right' src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="developer gif">](https://github.com/tuusuario)
+[<img align='right' src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="developer gif">](https://github.com/tuusuario)
 
 # ✨ Bienvenido a mi mundo! ✨
 <br>
 
 ## 😊 Acerca de mí  
 - Actualmente me encuentro cursando el Bootcamp de Desarrollo Front-End con VueJS 🎓
-- En paralelo estoy aprendiendo Desarrollo Backend con PHP 🐘 y Laravel de forma autodidacta 🎓
+- En paralelo estoy aprendiendo Desarrollo Backend con PHP 🐘 y Laravel (autodidacta) 🎓
 - Mi Misión es llegar a ser un Desarrollador Web Full-Stack 🐙
 <br><br>
 

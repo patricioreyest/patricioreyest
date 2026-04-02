@@ -10,7 +10,7 @@
 - En 2025 me certifique como Data Analyst con Python 🐍
 <br><br>
 
-## 💻 Mi Stack Tecnológico
+## 💻 Stack Tecnológico (que aún no manejo, pero para allá vamos 💪)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40">](https://developer.mozilla.org/es/docs/Web/JavaScript)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40">](https://vuejs.org/)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="40">](https://developer.mozilla.org/es/docs/Web/HTML)

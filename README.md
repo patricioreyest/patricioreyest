@@ -1,6 +1,6 @@
 <div align="center">
   
-# ✧ Hola, soy Pato Reyes ✧
+# ✧ PATRICIO REYES ✧
 
 ![Desarrollador GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 

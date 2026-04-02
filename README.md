@@ -1,10 +1,10 @@
 <!--suppress HtmlDeprecatedAttribute -->
 [<img align='right' src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="developer gif">](https://github.com/tuusuario) 
-<br><br>
+
 # ✨ Bienvenido a mi mundo! ✨
 <br><br><br>
-## 💻 Mi Stack Tecnológico
 
+## 💻 Mi Stack Tecnológico
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40">](https://developer.mozilla.org/es/docs/Web/JavaScript)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40">](https://vuejs.org/)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="40">](https://developer.mozilla.org/es/docs/Web/HTML)

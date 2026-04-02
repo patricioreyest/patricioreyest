@@ -1,5 +1,6 @@
 <!--suppress HtmlDeprecatedAttribute -->
-[<img align='right' src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="developer gif">](https://github.com/tuusuario) 
+<!-- [<img align='right' src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="developer gif">](https://github.com/tuusuario) -->
+[<img align='right' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3I0bGw0a2Nmd2h0dXM2c2NqdGZxbXZ6Y3B6a2p5c2Z6cGZ6cGZ6cGZ6cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7abB06u9bNzA8LC8/giphy.gif" width="250" alt="pato programador">](https://github.com/tuusuario)
 
 # ✨ Bienvenido a mi mundo! ✨
 <br><br>
@@ -10,7 +11,7 @@
 - En 2025 me certifique como Data Analyst con Python 🐍
 <br><br>
 
-## 💻 Stack Tecnológico (que aún no manejo, pero para allá vamos 💪)
+## 💻 Stack Tecnológico (en proceso de dominar el universo dev 🌎)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40">](https://developer.mozilla.org/es/docs/Web/JavaScript)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40">](https://vuejs.org/)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="40">](https://developer.mozilla.org/es/docs/Web/HTML)

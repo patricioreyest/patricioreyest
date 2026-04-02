@@ -1,8 +1,8 @@
-# 👨‍💻 Pato Reyes
+# 👨‍💻 PATRICIO REYES
 
 ![Banner](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
-## 🛠️ Tech Stack
+## 🛠️ Mi Stack Tecnológico
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-42B883?style=flat-square&logo=vue.js&logoColor=white)

@@ -3,9 +3,9 @@
 
 # ✨ Hey! Nice to see you. ✨
 <br><br>
-## 💻 Mi Stack Tecnológico.
+## 💻 Mi Stack Tecnológico
 
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="80" style="color: #F7DF1E">](https://developer.mozilla.org/es/docs/Web/JavaScript)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="80">](https://developer.mozilla.org/es/docs/Web/JavaScript)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="vuejs" width="80">](https://vuejs.org/)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="80">](https://developer.mozilla.org/es/docs/Web/HTML)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="80">](https://developer.mozilla.org/es/docs/Web/CSS)
@@ -37,8 +37,6 @@
 [![wakatime](https://wakatime.com/badge/user/tu-usuario-id.svg?style=social)](https://wakatime.com/@tu-usuario-id)
 [<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/tuusuario?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&label=Total%20user%20stars&logoColor=red&style=social">](https://github.com/tuusuario?tab=repositories)
 [<img alt="GitHub followers" src="https://img.shields.io/github/followers/tuusuario?&logoColor=red&style=social">](https://github.com/tuusuario?tab=followers)
-
----
 
 **✨ Hecho con ❤️ y mucho código ✨**
 

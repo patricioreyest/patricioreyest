@@ -3,7 +3,7 @@
 
 # ✨ Hey! Nice to see you. ✨
 
-## 💻 Mi Stack Tecnológico
+## 💻 Mi Stack Tecnológico.
 
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="80" style="color: #F7DF1E">](https://developer.mozilla.org/es/docs/Web/JavaScript)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="vuejs" width="80">](https://vuejs.org/)

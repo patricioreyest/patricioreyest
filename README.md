@@ -1,5 +1,6 @@
 <!--suppress HtmlDeprecatedAttribute -->
-[<img align='right' src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="developer gif">](https://github.com/tuusuario)
+<!-- [<img align='right' src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="developer gif">](https://github.com/tuusuario) -->
+[<img align='right' src="https://media1.tenor.com/m/-qpIfV6mhCkAAAAC/coding-duck.gif" width="250" alt="pato programador">](https://github.com/tuusuario)
 
 <!-- # ✨ Hey! Nice to see you. ✨ -->
 <br><br><br>

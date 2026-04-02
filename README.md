@@ -28,14 +28,14 @@
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40">](https://pandas.pydata.org/)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40">](https://numpy.org/)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40">](https://jupyter.org/)
-<br>
+<br><br>
+
 ## 📫 Contacto
 
 <!-- [<img src="https://cdn.iconscout.com/icon/free/png-256/gmail-2038873-1720091.png" alt="Gmail" width="40">](mailto:tucorreo@tu-dominio.com) -->
 [<img src="https://cdn.iconscout.com/icon/free/png-256/telegram-3-226554.png" alt="telegram" width="40">](https://t.me/analistadev)
 [<img src="https://cdn.iconscout.com/icon/free/png-256/github-153-675523.png" alt="github" width="40">](https://github.com/patricioreyest)
-
-<br>
+<br><br>
 
 **✨ Hecho con ❤️ y muchooooooo código ✨**
 

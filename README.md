@@ -27,6 +27,6 @@
 
 <br>
 
-**✨ Hecho con ❤️ y muchoooooo0 código ✨**
+**✨ Hecho con ❤️ y muchooooooo código ✨**
 
 *Última actualización: Abril 2026*

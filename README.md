@@ -1,6 +1,6 @@
 <div align="center">
   
-# ✧ Tu Nombre ✧
+# ✧ Hola, soy Pato Reyes ✧
 
 ![Desarrollador GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 

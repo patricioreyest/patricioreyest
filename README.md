@@ -7,7 +7,7 @@
 ## 😊 Acerca de mí  
 - Actualmente me encuentro cursando el Bootcamp de Desarrollo Front-End con VueJS 🎓
 - En paralelo estoy aprendiendo Desarrollo Backend con PHP 🐘 y Laravel de forma autodidacta 🎓
-- Mi Misión es llegar a ser un Desarrollador Web Fullstack
+- Mi Misión es llegar a ser un Desarrollador Web Fullstack 🐙
 <br><br>
 
 ## 💻 Stack Tecnológico (en proceso de dominar el universo dev 🌎)

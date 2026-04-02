@@ -1,6 +1,6 @@
 <!--suppress HtmlDeprecatedAttribute -->
-[<img align='right' src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="developer gif">](https://github.com/tuusuario) <br><br>
-
+[<img align='right' src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="developer gif">](https://github.com/tuusuario) 
+<br><br>
 # ✨ Bienvenido a mi mundo! ✨
 <br><br><br>
 ## 💻 Mi Stack Tecnológico

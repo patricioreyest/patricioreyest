@@ -5,6 +5,9 @@
 <br><br><br>
 
 ## 😊 Acerca de mí  
+- Actualmente me encuentro cursando el Bootcamp de Desarrollo Front-End con VueJS
+- En paralelo estoy aprendiendo sobre PHP y Laravel
+- Me encuentro certificado como Data Analyst en Python
 
 
 ## 💻 Mi Stack Tecnológico

@@ -1,6 +1,5 @@
 <!--suppress HtmlDeprecatedAttribute -->
-<!-- [<img align='right' src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="developer gif">](https://github.com/tuusuario) -->
-[<img align='right' src="https://i.pinimg.com/originals/93/ae/22/93ae228c989aa9ef2a95380920cf8baa.gif" width="250" alt="pato programador">](https://github.com/tuusuario)
+[<img align='right' src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="developer gif">](https://github.com/tuusuario)
 
 # ✨ Bienvenido a mi mundo! ✨
 <br><br>

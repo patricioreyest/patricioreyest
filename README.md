@@ -1,9 +1,8 @@
 <!--suppress HtmlDeprecatedAttribute -->
 [<img align='right' src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="developer gif">](https://github.com/tuusuario)
-[<img align='right' src="https://i.pinimg.com/originals/0f/0c/3a/0f0c3a4a5c5c5c5c5c5c5c5c5c5c5c5c.gif" width="250" alt="pato programador">](https://github.com/tuusuario)
 
 # ✨ Bienvenido a mi mundo! ✨
-<br><br><br>
+<br><br><br><br>
 ## 💻 Mi Stack Tecnológico
 
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40">](https://developer.mozilla.org/es/docs/Web/JavaScript)

@@ -1,6 +1,6 @@
 <!--suppress HtmlDeprecatedAttribute -->
 <!-- [<img align='right' src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="developer gif">](https://github.com/tuusuario) -->
-[<img align='right' src="https://cdn-icons-png.flaticon.com/512/1995/1995572.png" width="200" alt="pato programador">](https://github.com/tuusuario)
+[<img align='right' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="200" alt="pato programador">](https://github.com/tuusuario)
 
 # ✨ Bienvenido a mi mundo! ✨
 <br><br>

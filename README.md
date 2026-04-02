@@ -2,7 +2,7 @@
 
 ![Banner](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
-### 💻 Stack Tecnológico
+### 💻 Mi Stack Tecnológico
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" style="color: #F7DF1E"/>

@@ -2,13 +2,15 @@
 [<img align='right' src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="developer gif">](https://github.com/tuusuario) 
 
 # ✨ Bienvenido a mi mundo! ✨
-<br><br><br>
+<br><br>
 
 ## 😊 Acerca de mí  
 - Actualmente me encuentro cursando el Bootcamp de Desarrollo Front-End con VueJS
-- En paralelo estoy aprendiendo sobre PHP y Laravel
-- Me encuentro certificado como Data Analyst en Python
+- En paralelo estoy aprendiendo Desarrollo Backend con PHP y Laravel de forma autodidacta
+- Estoy haciendo unos pequeños proyectos web
+- Y me encuentro certificado como Data Analyst en Python
 
+<br><br>
 
 ## 💻 Mi Stack Tecnológico
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40">](https://developer.mozilla.org/es/docs/Web/JavaScript)

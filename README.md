@@ -1,6 +1,6 @@
 <!--suppress HtmlDeprecatedAttribute -->
 <!-- [<img align='right' src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="developer gif">](https://github.com/tuusuario) -->
-[<img align='right' src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWtpNzF1a2I4dXJ1eGZ0bmg5cXJ0cnNyb2R0cDl2ZzVmcWZzZnZxZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7abB06u9bNzA8LC8/giphy.gif" width="250" alt="pato programador">](https://github.com/tuusuario)
+[<img align='right' src="https://i.imgur.com/8m6M7kC.png" width="220" alt="pato programador">](https://github.com/tuusuario)
 
 # ✨ Bienvenido a mi mundo! ✨
 <br><br>

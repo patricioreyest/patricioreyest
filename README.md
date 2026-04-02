@@ -2,7 +2,7 @@
 [<img align='right' src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="developer gif">](https://github.com/tuusuario)
 
 # ✨ Hey! Nice to see you. ✨
-
+<br><br>
 ## 💻 Mi Stack Tecnológico.
 
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="80" style="color: #F7DF1E">](https://developer.mozilla.org/es/docs/Web/JavaScript)

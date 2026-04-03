@@ -4,7 +4,7 @@
 # ✨ Bienvenido a mi mundo! ✨
 <br>
 
-## 😊 Acerca de mí  
+ 😊 Acerca de mí  
 - Actualmente me encuentro cursando el Bootcamp de Desarrollo Front-End con VueJS 🎓
 - En paralelo estoy aprendiendo Desarrollo Backend con PHP 🐘 y Laravel (autodidacta) 🎓
 - Mi Misión es llegar a ser un Desarrollador Web Full-Stack 🐙

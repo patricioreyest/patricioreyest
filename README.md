@@ -3,7 +3,7 @@
 
 # ✨ Bienvenido a mi mundo! ✨
 <br>
-[<img align='right' src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="developer gif">](https://github.com/tuusuario)
+
 ## 😊 Acerca de mí  
 - Actualmente me encuentro cursando el Bootcamp de Desarrollo Front-End con VueJS 🎓
 - En paralelo estoy aprendiendo Desarrollo Backend con PHP 🐘 y Laravel (autodidacta) 🎓

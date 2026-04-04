@@ -34,7 +34,6 @@
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?logo=matplotlib&logoColor=white)](https://matplotlib.org/)
 [![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?logo=seaborn&logoColor=white)](https://seaborn.pydata.org/)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)](https://scikit-learn.org/)
-[![Jupyter Notebook](https://img.shields.io/badge/EDA-6a0dad?logo=jupyter&logoColor=white)](https://en.wikipedia.org/wiki/Exploratory_data_analysis)
 
 <br><br>
 

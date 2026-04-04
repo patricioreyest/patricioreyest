@@ -10,7 +10,7 @@
 - Mi Misión es llegar a ser un Desarrollador Web Full-Stack 🐙
 <br><br>
 
-## 💻 Stack Tecnológico (en proceso de dominar el universo dev 🌎)
+## 💻 Stack Tecnológico (en proceso de dominar el universo dev 🌎 y Data)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="35">](https://developer.mozilla.org/es/docs/Web/JavaScript)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="vuejs" width="35">](https://vuejs.org/)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="35">](https://developer.mozilla.org/es/docs/Web/HTML)
@@ -25,6 +25,20 @@
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="35">](https://github.com/)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="35">](https://www.python.org/)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="35">](https://www.linux.org/)
+
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="35">
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="35">
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="35">
+[<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="35">
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="35">
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="machine-learning" width="35">
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" alt="neural-networks" width="35">
+[<img src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" alt="ai-agents" width="35">
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="artificial-intelligence" width="35">
+[<img src="https://cdn-icons-png.flaticon.com/512/2103/2103618.png" alt="data-science" width="35">
+
+
+
 <br><br>
 
 ## 📫 Contacto

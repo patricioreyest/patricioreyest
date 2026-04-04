@@ -36,11 +36,11 @@
 
 <br><br>
 
-## 📫 Contacto
+<!-- ## 📫 Contacto -->
 
 <!-- [<img src="https://cdn.iconscout.com/icon/free/png-256/gmail-2038873-1720091.png" alt="Gmail" width="40">](mailto:tucorreo@tu-dominio.com) -->
-[<img src="https://cdn.iconscout.com/icon/free/png-256/telegram-3-226554.png" alt="telegram" width="35">](https://t.me/analistadev)
-[<img src="https://cdn.iconscout.com/icon/free/png-256/github-153-675523.png" alt="github" width="35">](https://github.com/patricioreyest)
+<!-- [<img src="https://cdn.iconscout.com/icon/free/png-256/telegram-3-226554.png" alt="telegram" width="35">](https://t.me/analistadev) -->
+<!--[<img src="https://cdn.iconscout.com/icon/free/png-256/github-153-675523.png" alt="github" width="35">](https://github.com/patricioreyest) -->
 <br><br>
 
 **✨ Hecho con ❤️ y muuucho código ✨**

@@ -26,18 +26,16 @@
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="35">](https://www.python.org/)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="35">](https://www.linux.org/)
 
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="35">
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="35">
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="35">
-[<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="35">
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="35">
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="machine-learning" width="35">
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" alt="neural-networks" width="35">
-[<img src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" alt="ai-agents" width="35">
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="artificial-intelligence" width="35">
-[<img src="https://cdn-icons-png.flaticon.com/512/2103/2103618.png" alt="data-science" width="35">
-
-
+[![Pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![NumPy](https://img.shields.io/badge/numpy-013243?logo=numpy&logoColor=white)](https://numpy.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?logo=matplotlib&logoColor=white)](https://matplotlib.org/)
+[![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?logo=seaborn&logoColor=white)](https://seaborn.pydata.org/)
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)](https://scikit-learn.org/)
+[![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?logo=tensorflow&logoColor=white)](https://en.wikipedia.org/wiki/Machine_learning)
+[![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?logo=keras&logoColor=white)](https://en.wikipedia.org/wiki/Deep_learning)
+[![AI](https://img.shields.io/badge/AI-007ACC?logo=tensorflow&logoColor=white)](https://en.wikipedia.org/wiki/Artificial_intelligence)
+[![Data Science](https://img.shields.io/badge/Data%20Science-6a0dad?logo=python&logoColor=white)](https://en.wikipedia.org/wiki/Data_science)
+[![Data Visualization](https://img.shields.io/badge/Data%20Visualization-6a0dad?logo=matplotlib&logoColor=white)](https://en.wikipedia.org/wiki/Data_visualization)
 
 <br><br>
 

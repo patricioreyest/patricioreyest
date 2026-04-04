@@ -8,7 +8,7 @@
 - Actualmente me encuentro cursando el Bootcamp de Desarrollo Front-End con VueJS 🎓
 - En paralelo estoy aprendiendo Desarrollo Backend con PHP 🐘 y Laravel (autodidacta) 🎓
 
-<br><br>
+<br>
 
 ## 💻 Stack Tecnológico (en proceso de dominar el universo dev 🌎)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="35">](https://developer.mozilla.org/es/docs/Web/JavaScript)
@@ -26,13 +26,15 @@
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="35">](https://www.python.org/)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="35">](https://www.linux.org/)
 
+<br>
+
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![Pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![NumPy](https://img.shields.io/badge/numpy-013243?logo=numpy&logoColor=white)](https://numpy.org/)
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?logo=matplotlib&logoColor=white)](https://matplotlib.org/)
 [![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?logo=seaborn&logoColor=white)](https://seaborn.pydata.org/)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)](https://scikit-learn.org/)
-[![EDA](https://img.shields.io/badge/EDA-6a0dad?logo=jupyter&logoColor=white)](https://en.wikipedia.org/wiki/Exploratory_data_analysis)
+[![Jupyter Notebook](https://img.shields.io/badge/EDA-6a0dad?logo=jupyter&logoColor=white)](https://en.wikipedia.org/wiki/Exploratory_data_analysis)
 
 <br><br>
 

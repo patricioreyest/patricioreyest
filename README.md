@@ -4,14 +4,14 @@
 <!-- # ✨ Bienvenido a mi mundo! ✨
 <br>-->
 
-# 😊 Acerca de mí  
+# ✨ Acerca de mí 😊
 - Actualmente me encuentro cursando el Bootcamp de Desarrollo Front-End con VueJS 🎓
 - En paralelo estoy aprendiendo Desarrollo Backend con PHP 🐘 y Laravel (autodidacta) 🎓
 - Me encuentro certificado en Data Analyst con Python 🐍
 
 <br>
 
-## 💻 Stack Tecnológico (en proceso de dominar el universo dev 🌎)
+# 💻 Stack Tecnológico (en proceso de dominar el universo dev 🌎)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="35">](https://developer.mozilla.org/es/docs/Web/JavaScript)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="vuejs" width="35">](https://vuejs.org/)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="35">](https://developer.mozilla.org/es/docs/Web/HTML)

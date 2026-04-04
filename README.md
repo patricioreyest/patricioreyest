@@ -31,14 +31,8 @@
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?logo=matplotlib&logoColor=white)](https://matplotlib.org/)
 [![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?logo=seaborn&logoColor=white)](https://seaborn.pydata.org/)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)](https://scikit-learn.org/)
-[![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?logo=tensorflow&logoColor=white)](https://en.wikipedia.org/wiki/Machine_learning)
-[![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?logo=keras&logoColor=white)](https://en.wikipedia.org/wiki/Deep_learning)
-[![AI](https://img.shields.io/badge/AI-007ACC?logo=tensorflow&logoColor=white)](https://en.wikipedia.org/wiki/Artificial_intelligence)
-[![Data Science](https://img.shields.io/badge/Data%20Science-6a0dad?logo=python&logoColor=white)](https://en.wikipedia.org/wiki/Data_science)
 
 [![Data Analytics](https://img.shields.io/badge/Data%20Analytics-2C5F8A?logo=python&logoColor=white)](https://en.wikipedia.org/wiki/Data_analysis)
-[![Data Analytics Python](https://img.shields.io/badge/Data%20Analytics%20Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
-[![Análisis de Datos](https://img.shields.io/badge/An%C3%A1lisis%20de%20Datos-FF6F00?logo=python&logoColor=white)](https://en.wikipedia.org/wiki/Data_analysis)
 [![EDA](https://img.shields.io/badge/EDA-6a0dad?logo=jupyter&logoColor=white)](https://en.wikipedia.org/wiki/Exploratory_data_analysis)
 
 <br><br>

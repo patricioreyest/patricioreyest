@@ -36,6 +36,10 @@
 [![AI](https://img.shields.io/badge/AI-007ACC?logo=tensorflow&logoColor=white)](https://en.wikipedia.org/wiki/Artificial_intelligence)
 [![Data Science](https://img.shields.io/badge/Data%20Science-6a0dad?logo=python&logoColor=white)](https://en.wikipedia.org/wiki/Data_science)
 
+[![Data Analytics](https://img.shields.io/badge/Data%20Analytics-2C5F8A?logo=python&logoColor=white)](https://en.wikipedia.org/wiki/Data_analysis)
+[![Data Analytics Python](https://img.shields.io/badge/Data%20Analytics%20Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![Análisis de Datos](https://img.shields.io/badge/An%C3%A1lisis%20de%20Datos-FF6F00?logo=python&logoColor=white)](https://en.wikipedia.org/wiki/Data_analysis)
+[![EDA](https://img.shields.io/badge/EDA-6a0dad?logo=jupyter&logoColor=white)](https://en.wikipedia.org/wiki/Exploratory_data_analysis)
 
 <br><br>
 

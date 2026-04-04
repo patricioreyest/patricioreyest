@@ -27,17 +27,11 @@
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="35">](https://www.linux.org/)
 
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Python 3](https://img.shields.io/badge/Python%203-3776AB?logo=python&logoColor=white)](https://www.python.org/)
-
 [![Pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![NumPy](https://img.shields.io/badge/numpy-013243?logo=numpy&logoColor=white)](https://numpy.org/)
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?logo=matplotlib&logoColor=white)](https://matplotlib.org/)
 [![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?logo=seaborn&logoColor=white)](https://seaborn.pydata.org/)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)](https://scikit-learn.org/)
-
-[![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)](https://scikit-learn.org/)
-[![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?logo=seaborn&logoColor=white)](https://seaborn.pydata.org/)
 [![EDA](https://img.shields.io/badge/EDA-6a0dad?logo=jupyter&logoColor=white)](https://en.wikipedia.org/wiki/Exploratory_data_analysis)
 
 <br><br>

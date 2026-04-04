@@ -25,7 +25,6 @@
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="35">](https://github.com/)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="35">](https://www.python.org/)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="35">](https://www.linux.org/)
-
 [![Pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![NumPy](https://img.shields.io/badge/numpy-013243?logo=numpy&logoColor=white)](https://numpy.org/)
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?logo=matplotlib&logoColor=white)](https://matplotlib.org/)
@@ -35,7 +34,7 @@
 [![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?logo=keras&logoColor=white)](https://en.wikipedia.org/wiki/Deep_learning)
 [![AI](https://img.shields.io/badge/AI-007ACC?logo=tensorflow&logoColor=white)](https://en.wikipedia.org/wiki/Artificial_intelligence)
 [![Data Science](https://img.shields.io/badge/Data%20Science-6a0dad?logo=python&logoColor=white)](https://en.wikipedia.org/wiki/Data_science)
-[![Data Visualization](https://img.shields.io/badge/Data%20Visualization-6a0dad?logo=matplotlib&logoColor=white)](https://en.wikipedia.org/wiki/Data_visualization)
+
 
 <br><br>
 
